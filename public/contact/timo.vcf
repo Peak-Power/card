@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 11.5.2//EN
+N:Juritsch;Timo;;;
+FN:Timo Juritsch
+ORG:Peak Power UG;
+EMAIL;type=INTERNET;type=WORK:timo@peakpower.io
+TEL;type=WORK;type=VOICE;type=pref:+49 (0) 178 809 27 11
+ADR;type=WORK:;;Novalisstraße 10;10115, Berlin;Germany
+NOTE:Co-founder
+item1.URL;type=pref:https://peakpower.io/
+item1.X-ABLabel:website
+END:VCARD

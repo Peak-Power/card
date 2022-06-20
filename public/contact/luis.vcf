@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 11.5.2//EN
+N:del Rio Francos;Luis;;;
+FN:Luis del Rio Francos
+ORG:Peak Power UG;
+EMAIL;type=INTERNET;type=WORK:luis@peakpower.io
+TEL;type=WORK;type=VOICE;type=pref:+49 (0) 157 925 989 60
+TEL;type=CELL;type=VOICE;type=pref:+33 767 96 02 49
+ADR;type=WORK:;;Novalisstraße 10;10115, Berlin;Germany
+NOTE:Co-founder
+item1.URL;type=pref:https://peakpower.io/
+item1.X-ABLabel:website
+END:VCARD
