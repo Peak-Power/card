@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 11.5.2//EN
+N:Wegener;Charlotte;;;
+FN:Charlotte Wegener
+ORG:Peak Power UG;
+EMAIL;type=INTERNET;type=WORK:charlotte.wegener@peakpower.io
+TEL;type=CELL;type=VOICE;type=pref:+49 (0) 179 1493447
+ADR;type=WORK:;;Novalisstraße 10;10115, Berlin;Germany
+NOTE:Co-founder
+item1.URL;type=pref:https://peakpower.io/
+item1.X-ABLabel:website
+END:VCARD
